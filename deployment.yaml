@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: aadilraza339/udemy-argocd-webapp:203720e3f6fa93bfd4008b478de9b3f99807ddb1
+      - image: aadilraza339/python-flask-api:10e4cd4a89fb995cd189e010964de12d53cb8c15
         name: flaskdemo
         resources: {}
 status: {}
