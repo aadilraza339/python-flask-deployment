@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: aadilraza339/python-flask-api:517d04403906b4e266d9c1cb9202ca39fa40e129
+      - image: aadilraza339/python-flask-api:93ded454d856d6a49ad3acfe5ba16e7f1450568e
         name: flaskdemo
         resources: {}
 status: {}
